@@ -1,10 +1,13 @@
 :local {
   .the-apprentice {
-    font-family: Arial;
     background-color: #000;
     height: 100vh;
-    color: #fff;
     display: flex;
-    padding: 11rem;
+
+    h1{
+      padding: 11rem;
+      font-family: Arial;
+      color: #fff;
+    }
   }
 }
