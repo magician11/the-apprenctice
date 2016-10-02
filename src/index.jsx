@@ -5,5 +5,5 @@ import TheApprentice from './components/the-apprentice';
 // remove margins
 document.body.style.margin = 0;
 
-const initialThoughts = ['Hello Andrew', 'Let\'s chat', 'You can ask me anything...'];
+const initialThoughts = ['Hello Andrew', 'How are you doing today?'];
 ReactDOM.render(<TheApprentice initialThoughts={initialThoughts} />, document.getElementById('app'));

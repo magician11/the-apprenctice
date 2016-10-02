@@ -29,6 +29,7 @@
     "webpack-dev-server": "^1.16.1"
   },
   "dependencies": {
+    "annyang": "^2.5.0",
     "html-webpack-plugin": "^2.22.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
